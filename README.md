@@ -8,16 +8,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ### Challenge
 
-Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands through Language vs Speech.
-
-### Liri Commands
-
-LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
-
-
-### Developer Instructions
-
-Program liri.js to take in one of the following commands:
+Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands through Language vs Speech using one of the following commands:
 
    * `concert-this`
 
@@ -26,6 +17,7 @@ Program liri.js to take in one of the following commands:
    * `movie-this`
 
    * `do-what-it-says`
+
 
 ### What Each Command Should Do
 
