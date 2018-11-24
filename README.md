@@ -8,7 +8,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ### Challenge
 
-Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands through Language vs Speech using one of the following commands:
+Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands through Language vs Speech using the following commands:
 
    * `concert-this`
 
