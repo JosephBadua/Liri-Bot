@@ -44,7 +44,7 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
    
 ### Prerequisites
 
-- Node.js - Download the latest version of Node (https://nodejs.org/en/)
+- Node.js - Download the latest version of Node (https://nodejs.org/en/).
 
 - Make a new GitHub repository called liri-node-app and clone it to your computer.
 
