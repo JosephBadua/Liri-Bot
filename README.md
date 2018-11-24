@@ -18,18 +18,17 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
 
    * `do-what-it-says`
 
-
-### What Each Command Should Do
+### What Each Command Does
 
 1. `node liri.js concert-this <artist/band name here>`
 
-   * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
+   * Searches the Bands in Town Artist Events API for an artist and renders the following information about each event to the terminal:
 
      * Name of the venue
 
      * Venue location
 
-     * Date of the Event (use moment to format this as "MM/DD/YYYY")
+     * Date of the Event (using the format "MM/DD/YYYY")
 
 2. `node liri.js spotify-this-song '<song name here>'`
 
