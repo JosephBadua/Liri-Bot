@@ -2,9 +2,11 @@
 
 LIRI is a Language Interpretation and Recognition Interface. 
 
+
 ### Overview
 
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+
 
 ### Challenge
 
@@ -17,6 +19,7 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
    * `movie-this`
 
    * `do-what-it-says`
+   
    
 ### Tech used
 
@@ -31,7 +34,7 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
   * OMDB (http://www.omdbapi.com) 
   * Bands In Town (http://www.artists.bandsintown.com/bandsintown-api)
 
-- NPM Packages:
+* NPM Packages:
 
   * [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
   * [Axios](https://www.npmjs.com/package/axios)
