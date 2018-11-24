@@ -75,7 +75,7 @@ LIRI will search Bands in Town for concerts, Spotify for songs, and OMDB for mov
 
      * A preview link of the song from Spotify
 
-     * The album that the song is from
+     * The album containing the song
 
    * If no song is provided then your program will default to "The Sign" by Ace of Base.
 
