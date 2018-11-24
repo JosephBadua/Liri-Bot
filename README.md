@@ -66,7 +66,11 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
      * Runs `spotify-this-song` for "I Want it That Way".
 
 ### Tech used
-Node.js
+
+- GitHub - file repository
+- Visual Studio Code - text editor
+
+- Node.js
 
 - Spotify NPM Package - https://www.npmjs.com/package/spotify
 - Request NPM Package - https://www.npmjs.com/package/request
@@ -78,7 +82,7 @@ Node.js
 
 ### Built With
 
-Visual Studio Code - Text Editor
+
 
 ### Before You Begin
 
