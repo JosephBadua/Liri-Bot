@@ -71,17 +71,7 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
 
      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
 
-     * Edit the text in random.txt to test out the feature for movie-this and concert-this.
+     
 
 
-### Add To Your Portfolio
 
-After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio.
-
-- - -
-
-### One More Thing
-
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
-
-**Good Luck!**
