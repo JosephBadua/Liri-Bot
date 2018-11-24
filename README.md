@@ -47,15 +47,10 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
 
 - Send requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs.
 
-- LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
-
-
-
-3. To retrieve the data that will power this app, you'll need to send requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs. You'll find these Node packages crucial for your assignment.
-
   
-
 ### What Each Command Does
+
+LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 
 1. `node liri.js concert-this <artist/band name here>`
 
