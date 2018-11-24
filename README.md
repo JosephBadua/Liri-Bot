@@ -36,9 +36,9 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
 
   * [Axios](https://www.npmjs.com/package/axios)
 
- * [Moment](https://www.npmjs.com/package/moment)
+  * [Moment](https://www.npmjs.com/package/moment)
 
- * [DotEnv](https://www.npmjs.com/package/dotenv)
+  * [DotEnv](https://www.npmjs.com/package/dotenv)
 
    
 ### Prerequisites
