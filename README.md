@@ -27,8 +27,8 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
 
 * APIs:
 
-  * OMDB(http://www.omdbapi.com) 
-  * Bands In Town(http://www.artists.bandsintown.com/bandsintown-api)
+  * OMDB (http://www.omdbapi.com) 
+  * Bands In Town (http://www.artists.bandsintown.com/bandsintown-api)
 
 - NPM Packages:
 
@@ -40,7 +40,7 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
    
 ### Prerequisites
 
-- Node.js - Download the latest version of Node https://nodejs.org/en/
+- Node.js - Download the latest version of Node (https://nodejs.org/en/)
 
 - Make a new GitHub repository called liri-node-app and clone it to your computer.
 
@@ -101,11 +101,6 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
 
      * Runs `spotify-this-song` for "I Want it That Way".
 
-
-
-
-
-### Built With
 
 
 
