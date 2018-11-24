@@ -27,6 +27,7 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
 
 * APIs:
 
+  * Spotify (https://developer.spotify.com/)
   * OMDB (http://www.omdbapi.com) 
   * Bands In Town (http://www.artists.bandsintown.com/bandsintown-api)
 
