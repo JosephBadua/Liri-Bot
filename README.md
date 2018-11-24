@@ -53,7 +53,7 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
   
 ### What Each Command Does
 
-LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+LIRI will search Bands in Town for concerts, Spotify for songs, and OMDB for movies.
 
 1. `node liri.js concert-this <artist/band name here>`
 
