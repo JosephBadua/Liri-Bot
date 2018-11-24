@@ -17,7 +17,7 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 ### Developer Instructions
 
-Program liri.js take in one of the following commands:
+Program liri.js to take in one of the following commands:
 
    * `concert-this`
 
