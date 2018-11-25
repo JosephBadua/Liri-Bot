@@ -23,10 +23,10 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
    
 ### Tech used
 
-**- GitHub** - file repository
-**- Visual Studio Code** - text editor
+**GitHub** - file repository
+**Visual Studio Code** - text editor
 
-**- Node.js**
+**Node.js**
 
 * **APIs:**
 
