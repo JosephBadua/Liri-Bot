@@ -5,13 +5,13 @@ var axios = require("axios");
 var moment = require("moment");
 var Spotify = require('node-spotify-api');
 var fs = require("fs");
-// var spotify = new Spotify(keys.spotify);
 var spotify = new Spotify({
   id: keys.spotify.id,
   secret: keys.spotify.secret,
 });
-var defaultSong = "The Sign";
+// var defaultSong = require("The Sign");
 var defaultMovie = "Mr. Nobody";
+// var spotify = new Spotify(keys.spotify);
 
 
 
@@ -36,9 +36,9 @@ switch (action) {
     break;
   case "movie-this":
     //If user has not specified a movie , use default
-    // if (value === "") {
-    //   value = defaultMovie;
-    // }
+    if (value == "") {
+      value = defaultMovie;
+    }
     getMovies(value)
     break;
   case "do-what-it-says":
@@ -66,7 +66,7 @@ function getSongs(songName) {
 
   //If user has not specified a song , default to "The Sign" by Ace of Bass
   if (songName === "") {
-    songName = "The Sign";
+    songName = "I Saw the Sign";
   }
 
   spotify.search({ type: 'track', query: songName }, function (err, data) {
@@ -119,7 +119,7 @@ function getMovies(movieName) {
       console.log("-----------------------");
       console.log("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/");
       console.log("It's on Netflix!");
-  }
+  };
 }
 
 function doWhatItSays() {
@@ -141,5 +141,5 @@ function doWhatItSays() {
       default:
         break;
     }
-  })
+  });
 }
