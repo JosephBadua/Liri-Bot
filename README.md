@@ -89,9 +89,9 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
        * IMDB Rating
        * Rotten Tomatoes Rating
        * Country where movie was produced
-       * Language
-       * Plot
-       * Cast
+       * Language(s)
+       * Plot of the movie
+       * Actors in the movie
      ```
 
    * If the user does not enter a movie selection, the program outputs data for the movie 'Mr. Nobody.'
