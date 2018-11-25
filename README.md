@@ -96,7 +96,7 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
 
    * If the user does not enter a movie selection, the program outputs data for the movie 'Mr. Nobody.'
 
-4. `node liri.js do-what-it-says`
+4. **`node liri.js do-what-it-says`**
 
      * Runs `spotify-this-song` for "I Want it That Way".
 
