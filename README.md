@@ -8,7 +8,7 @@
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives data in return.
 
 
-### Challenge
+## Challenge
 
 Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands through Language vs Speech using the following commands:
 
@@ -21,7 +21,7 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
    * `do-what-it-says`
    
    
-### Tech used
+## Tech
 
 **GitHub** - file repository
 **Visual Studio Code** - text editor
@@ -42,7 +42,7 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
   * **DotEnv** (https://www.npmjs.com/package/dotenv)
 
    
-### Prerequisites
+## Prerequisites
 
 - Node.js - download the latest version of Node (https://nodejs.org/en/).
 
@@ -51,7 +51,7 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
 - Send requests using the `axios` package to the Bands in Town, Spotify and OMDB APIs.
 
   
-### What Each Command Does
+## What Each Command Does
 
 **LIRI** searches **Bands in Town** for concerts, **Spotify** for songs, and **OMDB** for movies.
 
