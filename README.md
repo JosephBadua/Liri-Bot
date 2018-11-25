@@ -65,7 +65,7 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
 
      * Date of the Event (using the format "MM/DD/YYYY")
 
-2. `node liri.js spotify-this-song '<song name here>'`
+2. **`node liri.js spotify-this-song '<song name here>'`**
 
    * Displays the following information about the selected song in your terminal/bash window
 
@@ -79,19 +79,19 @@ Use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in commands thro
 
    * If no song is provided, the program defaults to "The Sign" by Ace of Base.
 
-3. `node liri.js movie-this '<movie name here>'`
+3. **`node liri.js movie-this '<movie name here>'`**
 
-   * This will output the following information to your terminal/bash window:
+   * This will output the following movie information to your terminal/bash window:
 
      ```
-       * Title of the movie.
-       * Year the movie came out.
-       * IMDB Rating of the movie.
-       * Rotten Tomatoes Rating of the movie.
-       * Country where the movie was produced.
-       * Language of the movie.
-       * Plot of the movie.
-       * Actors in the movie.
+       * Title
+       * Year movie was released
+       * IMDB Rating
+       * Rotten Tomatoes Rating
+       * Country where movie was produced.
+       * Language
+       * Plot
+       * Cast
      ```
 
    * If the user does not enter a movie selection, the program outputs data for the movie 'Mr. Nobody.'
